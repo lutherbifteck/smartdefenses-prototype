@@ -1,0 +1,24 @@
+.navbar-brand,
+h1, h2, h3, h4, h5, h5,
+.h1, .h2, .h3, .h4, .h5, .h5 {
+  font-family: 'Oswald', sans-serif !important;
+  font-weight: bold;
+}
+
+p,
+blockquote {
+  font-family: 'PT Sans', sans-serif;
+}
+
+.jumbotron {
+  margin-bottom: 0;
+}
+
+.row-qualifications {
+  /*margin-top: 50px;*/
+}
+
+/*desktop-first*/
+@media (max-width: 767px) {
+
+}

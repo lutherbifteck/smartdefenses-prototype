@@ -1,0 +1,16 @@
+{
+  "name": "smartdefenses",
+  "version": "1.0.0",
+  "description": "A website for self defense lessons and products",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "fullpage.js": "^2.8.0",
+    "slick-carousel": "^1.6.0"
+  }
+}
